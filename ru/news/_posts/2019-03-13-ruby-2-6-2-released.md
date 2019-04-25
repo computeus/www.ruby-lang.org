@@ -1,21 +1,20 @@
 ---
 layout: news_post
-title: "Publicado Ruby 2.6.2"
+title: "Вышел Ruby 2.6.2"
 author: "naruse"
-translator: vtamara
+translator: "lex111"
 date: 2019-03-13 11:30:00 +0000
-lang: es
+lang: ru
 ---
 
-Se ha publicado Ruby 2.6.2.
+Вышел релиз Ruby 2.6.2.
 
-Esta versión incluye correcciones a fallas y una actualización de seguridad
-al RubyGems incluido.
+Этот релиз включает исправления ошибок и обновление безопасности RubyGems.
 
-Ver detalles en [Múltiples vulnerabilidades en RubyGems](/es/news/2019/03/05/multiple-vulnerabilities-in-rubygems/)
-y en las [bitácoras del cambio](https://github.com/ruby/ruby/compare/v2_6_1...v2_6_2).
+Подробную информацию смотрите в [Многочисленные уязвимости в RubyGems](/en/news/2019/03/05/multiple-vulnerabilities-in-rubygems/)
+и в [истории коммитов](https://github.com/ruby/ruby/compare/v2_6_1...v2_6_2).
 
-## Descargas
+## Скачать
 
 * <https://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.2.tar.gz>
 
@@ -45,8 +44,8 @@ y en las [bitácoras del cambio](https://github.com/ruby/ruby/compare/v2_6_1...v
       SHA256: 91fcde77eea8e6206d775a48ac58450afe4883af1a42e5b358320beb33a445fa
       SHA512: 13f7d7b483a037378eac4bf4bebddc21d69f4e19e6bbb397dd53e7518037ae9a3aa5b41fc20bf1fe410803c6efc3a6a65a65af47648d3a93713f75cfe885326a
 
-## Comentario sobre la versión
+## Комментарий к релизу
 
-Muchos contribuyentes, desarrolladores y usuarios que reportaron fallas
-nos ayudaron a hacer esta versión.
-Gracias por sus contribuciones.
+Многие коммиттеры, разработчики и пользователи, которые отправляли баг-репорты,
+помогли нам сделать этот релиз.
+Спасибо за их участие.

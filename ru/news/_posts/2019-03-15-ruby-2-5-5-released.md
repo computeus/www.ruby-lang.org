@@ -1,19 +1,19 @@
 ---
 layout: news_post
-title: "Ruby 2.5.5 Released"
+title: "Вышел Ruby 2.5.5"
 author: "nagachika"
-translator:
+translator: "lex111"
 date: 2019-03-15 02:00:00 +0000
-lang: en
+lang: ru
 ---
 
-Ruby 2.5.5 has been released.
+Вышел релиз Ruby 2.5.5.
 
-This release includes a bug fix for a deadlock in multi-thread/multi-process applications (that use `Process.fork` from multi-threaded parent processes), like for example Puma.
+Этот релиз включает в себя исправление ошибки с блокировкой в многопоточных/многопроцессорных (при использовании `Process.fork`) приложениях, таких как, например, Puma.
 
-See the [commit logs](https://github.com/ruby/ruby/compare/v2_5_4...v2_5_5) for changes in detail.
+Смотрите [историю коммитов](https://github.com/ruby/ruby/compare/v2_5_4...v2_5_5) для получения подробностей.
 
-## Download
+## Скачать
 
 * <https://cache.ruby-lang.org/pub/ruby/2.5/ruby-2.5.5.tar.bz2>
 
@@ -43,6 +43,6 @@ See the [commit logs](https://github.com/ruby/ruby/compare/v2_5_4...v2_5_5) for 
       SHA256: be630e814c796f3750bd892f1250851e67fc4379f75508a4cb7ca7ceb718ddef
       SHA512: 95604d47f3436e0be3a59742a89ac5f1c5c9493ddab8b53b154098b876b2fa12418d2adfc1c71e039a6876d209a7832efd88c0e297df5be56b8f7e92094eb487
 
-## Release Comment
+## Комментарий к релизу
 
-I wish to express my gratitude to sorah and k0kubun for their report and investigation. Thank you.
+Я хотел поблагодарить sorah и k0kubun за участие и разбор. Спасибо.

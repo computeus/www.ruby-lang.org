@@ -1,20 +1,19 @@
 ---
 layout: news_post
-title: "Publicado Ruby 2.5.4"
+title: "Вышел Ruby 2.5.4"
 author: "nagachika"
-translator: vtamara
+translator: "lex111"
 date: 2019-03-13 11:30:00 +0000
-lang: es
+lang: ru
 ---
 
-Se ha publicado Ruby 2.5.4.
+Вышел релиз Ruby 2.5.4.
 
-Esta versión incluye correcciones a fallas y una actualización de seguridad
-al RubyGems incluido.
-Ver detalles en [Múltiples vulnerabilidades en RubyGems](/es/news/2019/03/05/multiple-vulnerabilities-in-rubygems/)
-y en las [bitácoras del cambio](https://github.com/ruby/ruby/compare/v2_5_3...v2_5_4).
+Этот релиз включает исправления ошибок и обновление безопасности RubyGems.
+Подробную информацию смотрите в [Многочисленные уязвимости в RubyGems](/en/news/2019/03/05/multiple-vulnerabilities-in-rubygems/)
+и в [истории коммитов](https://github.com/ruby/ruby/compare/v2_5_3...v2_5_4).
 
-## Descargas
+## Скачать
 
 * <https://cache.ruby-lang.org/pub/ruby/2.5/ruby-2.5.4.tar.bz2>
 
@@ -44,8 +43,8 @@ y en las [bitácoras del cambio](https://github.com/ruby/ruby/compare/v2_5_3...v
       SHA256: 823a6a2c9c7baa18554fd78d430837a01ab33cc16ad1759c9842bdd9523e9cea
       SHA512: a83f90514b09c217fbbd154cfc09c804553353a97cbff7df24185b613e1c7be69a965fe9ec925ac3f4bd6170f2c3d0d60be7ea4ab1037ce64300d7443b6e08e8
 
-## Comentario sobre la versión
+## Комментарий к релизу
 
-Muchos contribuyentes, desarrolladores y usuarios que reportaron fallas
-nos ayudaron a hacer esta versión.
-Gracias por sus contribuciones.
+Многие коммиттеры, разработчики и пользователи, которые отправляли баг-репорты,
+помогли нам сделать этот релиз.
+Спасибо за их участие.
